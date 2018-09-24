@@ -1,0 +1,27 @@
+body {
+  margin-bottom: 60px;
+}
+
+/* 404 Page styles */
+.error-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.error-actions {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.error-actions .btn {
+  margin-right: 10px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #F5F5F5;
+  padding: 20px 0;
+}
